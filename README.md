@@ -1,2 +1,2 @@
 # latestCV
-BOOTSTRAP TEMPLATE for [my cv](https://loonyt.github.io/latestCV/)
+Live preview :  [my cv](https://loonyt.github.io/latestCV/)
